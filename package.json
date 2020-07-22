@@ -48,7 +48,7 @@
     "keen.io": "0.0.3",
     "mocha": "*",
     "mustache": "~0.7.2",
-    "semver": "~2.1.0",
+    "semver": "~7.3.2",
     "underscore": "~1.5.1"
   },
   "main": "lib/index.js",
