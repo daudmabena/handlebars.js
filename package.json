@@ -47,7 +47,7 @@
     "jison": "~0.3.0",
     "keen.io": "0.0.3",
     "mocha": "*",
-    "mustache": "~0.7.2",
+    "mustache": "~4.0.1",
     "semver": "~2.1.0",
     "underscore": "~1.5.1"
   },
